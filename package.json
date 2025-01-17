@@ -1,0 +1,33 @@
+{
+  "name": "minokai",
+  "displayName": "Minokai",
+  "description": "Minimalist Monokai theme",
+  "version": "0.0.1",
+  "publisher": "gabrielvictordev",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Minokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minokai-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabrielvictorjs/minokai.git"
+  },
+  "keywords": [
+    "vscode",
+    "theme",
+    "monokai",
+    "minimalist"
+  ],
+  "license": "MIT"
+}
