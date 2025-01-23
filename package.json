@@ -2,7 +2,7 @@
   "name": "minokai",
   "displayName": "Minokai",
   "description": "Minimalist Monokai theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "gabrielvictordev",
   "engines": {
     "vscode": "^1.96.0"
