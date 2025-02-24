@@ -1,8 +1,8 @@
 {
   "name": "minokai",
   "displayName": "Minokai",
-  "description": "Minimalist Monokai theme",
-  "version": "0.0.2",
+  "description": "Minimalist themes",
+  "version": "0.1.0",
   "publisher": "gabrielvictordev",
   "engines": {
     "vscode": "^1.96.0"
@@ -16,6 +16,11 @@
         "label": "Minokai",
         "uiTheme": "vs-dark",
         "path": "./themes/Minokai-color-theme.json"
+      },
+      {
+        "label": "Minokai Kalel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minokai-kalel-color-theme.json"
       }
     ]
   },
@@ -27,6 +32,7 @@
     "vscode",
     "theme",
     "monokai",
+    "pastel",
     "minimalist"
   ],
   "license": "MIT"

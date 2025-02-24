@@ -2,7 +2,7 @@
 
 # Minokai Theme
 
-A minimal theme for VS Code with Monokai highlights.
+Minimals themes for VS Code.
 
 </div>
 
